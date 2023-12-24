@@ -1,0 +1,10 @@
+tcn-mockserver
+
+# IDE files
+*sublime*
+sftp-config.json
+.vscode
+.idea
+.ropeproject
+tags
+cscope.*
